@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "vtexday2023-hackathon-theme",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
