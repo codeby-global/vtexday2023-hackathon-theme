@@ -1,5 +1,5 @@
 {
-  "vendor": "vtex",
+  "vendor": "vtexdayhackathon7",
   "name": "vtexday2023-hackathon-theme",
   "version": "2.0.0",
   "builders": {
@@ -66,7 +66,7 @@
   },
   "peerDependencies": {
     "vtex.reviews-and-ratings": "3.x",
-    "vtex.vtexday2023-hackathon-affiliates": "1.x"
+    "vtexdayhackathon7.vtexday2023-hackathon-affiliates": "1.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
